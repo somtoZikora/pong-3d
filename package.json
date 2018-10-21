@@ -1,0 +1,8 @@
+{
+  "name": "pong-3d",
+  "author": "Somto Zikora",
+  "version": "1.0.0",
+  "description": "The idea is to write a very simple pong game where the goal is to keep a ball within a box",
+  "main": "app.js",
+  "license": "MIT"
+}
